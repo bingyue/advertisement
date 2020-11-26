@@ -3,9 +3,6 @@
 信息流广告学习资料，包括简介，业务流程，工程架构，数据平台，算法策略与相关网站。
 
 ## 一、概览
-
-[深入浅出解析信息流广告](http://www.woshipm.com/operate/591859.html)
-> 
  
 [互联网智能广告系统简易流程与架构](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651960148&idx=1&sn=7c8a2d789fb20981355e49c3defe0229)
 > 
